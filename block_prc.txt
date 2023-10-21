@@ -2,3 +2,7 @@
 0.0.0.0 www.qq.com
 0.0.0.0 ipip.net
 0.0.0.0 www.ipip.net
+0.0.0.0 tencent.com
+0.0.0.0 www.tencent.com
+0.0.0.0 qcloudimg.com
+0.0.0.0 www.qcloudimg.com
