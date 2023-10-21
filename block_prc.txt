@@ -4,3 +4,4 @@
 
 0.0.0.0 qq.com
 0.0.0.0 www.qq.com
+0.0.0.0 ipip.net
